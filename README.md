@@ -3,7 +3,7 @@ Wcccoin Core integration/staging tree
 
 [![Build Status](https://travis-ci.org/wcccoin-project/wcccoin.svg?branch=master)](https://travis-ci.org/wcccoin-project/wcccoin)
 
-https://wcccoin.org
+https://wccgroup.io
 
 What is Wcccoin?
 ----------------
